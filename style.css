@@ -1,0 +1,42 @@
+* {
+    width: auto;
+    padding: 5px;
+}
+
+.center {
+    /* margin: auto; */
+    /* width: 50%; */
+    padding: 2px;
+    text-align: center;
+}
+
+.vertical_dotted_line {
+    border-left: 3px dotted rgb(133, 130, 130);
+    height: auto;
+}
+
+.new {
+    padding-left: 100px;
+}
+
+.card {
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+h6 {
+    color: #455a64;
+}
+
+h5,
+#email {
+    color: #26c6da;
+}
+
+ol {
+    padding-left: 100px;
+}
+
+ul {
+    padding-left: 100px;
+}
